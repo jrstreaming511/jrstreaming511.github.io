@@ -72,7 +72,12 @@ p.rss img { margin:0 0 0 12px; padding:0; border:none; float:right; }
 .post-pic { margin:0; }
 .post-pic img { border:1px solid #cdcdcd; border-top:none; }
 /*- Post Title -*/
-.post-title { padding:0; }
+.post-title {
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+}
 .post-title h2, .post-title h1 { padding-bottom:4px; }
 .post-title a { color:#2e2e2e; text-decoration:none; }
 /*- Post Date -*/
@@ -130,7 +135,11 @@ div.tabs_list { padding:0; margin:0; }
 div.tabs_list ul { list-style:none; text-align:left; margin:0; padding:0; }
 div.tabs_list ul li { font:normal 11px Arial, Helvetica, sans-serif; color:#565656; padding:0; margin:0; border:1px solid #e0e0e0; border-top:none; background-color:#fff; }
 div.tabs_list ul li a { display:block; margin:0; padding:8px 0 8px 24px; color:#565656; text-decoration:none; background:url(images/li_disc.gif) 12px center no-repeat; }
-div.tabs_list ul li a:hover { text-decoration:none; color:#199bd8; }
+div.tabs_list ul li a:hover {
+    text-decoration: none;
+    color: #199bd8;
+    font-size: 14px;
+}
 div.tabs_list ul li ul.children { padding:0 0 4px; border:0; }
 div.tabs_list ul li ul.children ul { border:0; }
 div.tabs_list ul li ul.children li { border:0; margin:0; }
@@ -194,7 +203,7 @@ select { padding:1px; }
 .blog_html .textblock { padding-bottom:24px; }
 p.uline { border-bottom:1px solid #c3c3c3; }
 /* Slider */
-.gallery { width:898px; height:420px; margin:0 auto; padding:0 35px; background:url(images/shade.jpg) no-repeat center bottom; }
+.gallery { width:898px; height:420px; margin:0 auto; padding:0 35px; background:url("images/shade2.png") no-repeat center bottom; }
 #slider { width:896px; height:357px; margin:0 auto; padding:0; list-style:none; border:1px solid #b0b0b0; }
 #slider ul, #slider li { margin:0; padding:0; list-style:none; height:357px; }
 /* 
