@@ -58,7 +58,14 @@ p.rss img { margin:0 0 0 12px; padding:0; border:none; float:right; }
 #centercol { float:left; width:632px; padding:0; }
 /*=== Right Column ===*/
 #rightcol { float:right; width:268px; padding:0; }
-.small_link { padding:0 0 8px; margin:0 auto; text-align:center; }
+.small_link {
+    padding: 0 0 8px;
+    margin: 0 auto;
+    text-align: center;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: lighter;
+}
 .small_link a { font:normal 11px Arial, Helvetica, sans-serif; color:#C1080B; }
 /*=== Sub Columns ===*/
 .subcols { background:url(images/subcols-bgr.gif) repeat-y left; height:1%; }
