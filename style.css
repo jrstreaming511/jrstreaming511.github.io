@@ -14,7 +14,13 @@ a:hover { text-decoration:underline; }
 p.clr, .clr { clear:both; padding:0; margin:0; background:none; }
 input, select, textarea { border:#cfcfcf 1px solid; color:#404040; font-size:12px; padding:3px; font-family:Arial, Verdana, Helvetica, sans-serif; }
 li { list-style:none; }
-h1, h2, h3 { margin:0; padding:8px 0; font:normal 24px/1.2em Arial, Helvetica, sans-serif; color:#2e2e2e; }
+h1, h2, h3 {
+    margin: 0;
+    padding: 8px 0;
+    font: normal 24px/1.2em Arial, Helvetica, sans-serif;
+    color: #2e2e2e;
+    font-size: 16px;
+}
 h4 { font-size:1em; margin:0 0 1em; }
 p { padding:0 0 1.3em; }
 /*=== Layout ===*/
