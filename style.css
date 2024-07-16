@@ -85,6 +85,225 @@ p.rss img { margin:0 0 0 12px; padding:0; border:none; float:right; }
     font-size: 16px;
     font-style: normal;
 }
+
+.himno {
+	FONT-SIZE: 16px; COLOR: #ff0000; FONT-FAMILY: 'verdana'; TEXT-DECORATION: none
+}
+.list {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: 'verdana'; TEXT-DECORATION: none
+}
+.listpeque {
+	FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: 'Verdana'; TEXT-DECORATION: none
+}
+.desta {
+	FONT-SIZE: 9px; COLOR: #56689e; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.destap {
+	FONT-SIZE: 9px; COLOR: #666666; FONT-FAMILY: 'Arial'; TEXT-DECORATION: none
+}
+.ficha {
+	FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.fichapeque {
+	FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: 'vedana'; TEXT-DECORATION: none
+}
+.dia {
+	FONT-SIZE: 11px; COLOR: #56689e; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.dia2 {
+	FONT-SIZE: 13px; COLOR: #56689e; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.path {
+	FONT-SIZE: 9px; COLOR: #666666; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.feed {
+	FONT-WEIGHT: bold; FONT-SIZE: 8px; COLOR: #666666; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.xml {
+	FONT-WEIGHT: bold; FONT-SIZE: 8px; COLOR: #ffffff; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.utd {
+	COLOR: #56689e; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+#scrollWindowDiv {
+	WIDTH: 200px; CLIP: rect(0px 200px 20px 0px); POSITION: static; TOP: 100px; HEIGHT: 20px; BACKGROUND-COLOR: #ffffff
+}
+#scrollContentDiv {
+	WIDTH: 200px; POSITION: static
+}
+.puntuacion {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #56689e; FONT-FAMILY: "Courier New"; TEXT-DECORATION: none
+}
+.descrip {
+	FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.descri {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.descripie {
+	FONT-SIZE: 11px; COLOR: #FFFFFF; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.busca {
+	FONT-SIZE: 9px; COLOR: #666666; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.separasec {
+	FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.online1 {
+	FONT-SIZE: 9px; COLOR: #ffffff; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.online2 {
+	FONT-SIZE: 9px; COLOR: #b3c7e5; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.login1 {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.login2 {
+	FONT-SIZE: 9px; COLOR: #b3c7e5; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.cabeceraseccion {
+	FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.textoformulario {
+	FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: verdana; HEIGHT: 30px; TEXT-DECORATION: none
+}
+.textoformulario200 {
+    FONT-SIZE: 15px;
+    COLOR: #001593;
+    FONT-FAMILY: verdana;
+        TEXT-DECORATION: none
+}
+.textoformulario500 {
+    FONT-SIZE: 20px;
+    COLOR: #02189B;
+    FONT-FAMILY: verdana;
+    HEIGHT: 30px;
+    TEXT-DECORATION: none
+}
+.textoformulario5 {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: verdana; HEIGHT: 30px; TEXT-DECORATION: none
+		
+		}
+.textoformulario8 {
+    FONT-SIZE: 14px;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: verdana;
+        TEXT-DECORATION: none
+}
+
+.textoformulario001 {
+    FONT-SIZE: 12px;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: verdana;
+        TEXT-DECORATION: none
+}
+
+.pieoscuro {
+	FONT-SIZE: 9px; COLOR: #666666; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.pieclaro {
+	FONT-SIZE: 9px; COLOR: #ffffff; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.descripcion {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.descripcionp {
+	FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.descripcionazul50 {
+    FONT-SIZE: 14px;
+    COLOR: #0012A0;
+    FONT-FAMILY: verdana;
+    TEXT-DECORATION: none
+	}
+
+.descripcionazul {
+    FONT-SIZE: 22px;
+    COLOR: #CC0707;
+    FONT-FAMILY: verdana;
+    TEXT-DECORATION: none
+	}	
+		.descripcionazul10 {
+    FONT-SIZE: 14px;
+    COLOR: #070680;
+    FONT-FAMILY: verdana;
+    TEXT-DECORATION: none
+}
+.descripcionazulinformes {
+	FONT-SIZE: 14px; COLOR: #56689e; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.descripcionazultitulo {
+	FONT-SIZE: 16px; COLOR: #FF0000; FONT-FAMILY: verdana; TEXT-DECORATION: none;
+}
+.descripcionazulg {
+	FONT-WEIGHT: bold; FONT-SIZE: 17px; COLOR: #56689e; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.descripcionnegrog {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #000000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.descripcionazulp {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #56689e; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.tnm {
+	FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.tbm {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.menu1 {
+	FONT-SIZE: 11px; font-weight:bold; text-align:center; COLOR: #ffffff; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.menu2 {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.menu3 {
+	FONT-SIZE: 9px; COLOR: #b7d7f8; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+.tgp {
+	FONT-SIZE: 9px; COLOR: #666666; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.menusel {
+	FONT-SIZE: 11px; COLOR: #2266ab; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.tam {
+	FONT-SIZE: 11px; COLOR: #56689e; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.tamrojo {
+	FONT-SIZE: 11px; COLOR: #FF0000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.tap {
+	FONT-SIZE: 10px; COLOR: #56689e; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.tamp {
+	FONT-SIZE: 9px; COLOR: #56689e; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.tappp {
+	FONT-SIZE: 7px; COLOR: #56689e; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.tgpp {
+	FONT-SIZE: 9px; COLOR: #666666; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.tgpp2 {
+	FONT-SIZE: 9px; COLOR: #666666; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.tgppp {
+	FONT-SIZE: 7px; COLOR: #666666; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.ultramini {
+	FONT-WEIGHT: bold; FONT-SIZE: 8px; COLOR: #666666; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.titular {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #ebf2fa; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.titularrojo {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #FF0000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.titularazul {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #0033CC; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+
+
+
 .post-title h2, .post-title h1 { padding-bottom:4px; }
 .post-title a { color:#2e2e2e; text-decoration:none; }
 /*- Post Date -*/
